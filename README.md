@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Website Table Layout</title>
+    <title> Website Table Layout</title>
 </head>
 <body>
 
